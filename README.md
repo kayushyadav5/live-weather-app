@@ -8,3 +8,5 @@ This is a Live Weather App built using React.js and the OpenWeatherMap API. It a
 - Provides current temperature, weather conditions, and more.
 - Responsive design for optimal viewing on various devices.
 - Simple and intuitive user interface.
+
+## API used: https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
