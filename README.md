@@ -10,4 +10,4 @@ This is a Live Weather App built using React.js and the OpenWeatherMap API. It a
 - Simple and intuitive user interface.
 
 ## API used
-https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={API_key}
