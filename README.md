@@ -11,3 +11,6 @@ This is a Live Weather App built using React.js and the OpenWeatherMap API. It a
 
 ## API used
 https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={API_key}
+
+### Link to the deployed website
+https://64d8f6a1bc78e72662d0fb61--inspiring-florentine-163cce.netlify.app/
